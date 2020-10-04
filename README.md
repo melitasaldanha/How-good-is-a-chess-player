@@ -18,5 +18,6 @@ We used the [Lichess Dataset](https://database.lichess.org/) which is an open-so
     - Game type using the game transcript
     - Quality of play based on final board position
     - Next move prediction
+5. User interface to help users interact with the model and get predictions using Flask. 
 
 **Technologies being used:** PyTorch, Python (chess.pgn library)
